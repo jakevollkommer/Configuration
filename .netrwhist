@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jakevollkommer/Desktop/GT/Freshman/Spring/cs1331/hw-histogram-master'
+let g:netrw_dirhist_2='/Users/jakevollkommer/Desktop/GT/Freshman/Spring/cs1331/hw-histogram-master/src/main/resources'
+let g:netrw_dirhist_3='/Users/jakevollkommer/Desktop/GT/Freshman/Spring/cs1331/hw-snake/src/main/java/model'
+let g:netrw_dirhist_4='/Users/jakevollkommer/Desktop/GT/2nd Year/Summer/Internship/BaristaAPI'
+let g:netrw_dirhist_5='/Users/jakevollkommer/Desktop/GT/2nd Year/Summer/Internship/grpc/src/objective-c/examples/RemoteTestClient'
+let g:netrw_dirhist_6='/Users/jakevollkommer/Desktop/GT/2ndYear/Summer/Internship/Barista/test'
